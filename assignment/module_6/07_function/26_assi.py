@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-message="Education is the foundation of a successful."
-=======
-message="Education is the foundation of a successful."
->>>>>>> 1a7c192261d8cb08888d1c0830130fba219b7b99
+message = "Education is the foundation of a successful."
 print(message[1:5])
